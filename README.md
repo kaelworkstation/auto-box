@@ -1,2 +1,2 @@
-# auto-box
-<h1> Personal script made to automate the enumeration process on HackTheBox machines. </h1>
+# Auto-Box
+<h2> Personal script made to automate the enumeration process on HackTheBox machines. </h2>
